@@ -13,7 +13,7 @@ export const DISHES =
         {
             id: 1,
             name: 'Zucchipakoda',
-            image: '/assets/ismages/zucchipakoda.png',
+            image: '/assets/images/zucchipakoda.png',
             category: 'appetizer',
             label: '',
             price: '1.99',
